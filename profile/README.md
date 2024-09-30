@@ -1,6 +1,12 @@
 > ‼️ **The WAX project has been sunsetted by PSE and further developments have been paused as of September 2024.** ‼️ 
-
+>
 > **When WAX (formerly BLS Wallet and Hubble) started, Account Abstraction and BLS signature aggregation were relatively underdeveloped areas in the Ethereum ecosystem. But fast-forward to 2024, and the Account Abstraction ecosystem has made major progress. And since the introduction of data blobs, the cost savings from using BLS signature aggregation have decreased significantly. The work on BLS signature aggregation and compression will be valuable when the economics of Ethereum change and data availability becomes more expensive. For now, the data availability savings are not offset by the L2 execution gas costs of doing the signature aggregation.**
+>
+> You can read more about our work on compression here:
+> * [The Impact of Blobs on Compression](https://hackmd.io/@voltrevo/ryuK6ZSR6)
+> * [4337 Compression in WAX](https://hackmd.io/@voltrevo/Bkz8syuUp)
+>
+> We also built a handy [fee calculator](https://andrewmorris.io/wax-fee-calculator/) for measuring savings from compression
 
 <div align="center">
     <h1>WAX: Wallet Account eXperiments (formerly BLS Wallet) 🍯</h1>
